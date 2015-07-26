@@ -49,7 +49,7 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\Tesseract.Binding.iOS\Tesseract.Binding.iOS.csproj">
-      <Project>{0580A057-E0F9-432B-AD9C-964451F7DF54}</Project>
+      <Project>{20c2dee6-920b-4421-afa1-39f80003ec1f}</Project>
       <Name>Tesseract.Binding.iOS</Name>
     </ProjectReference>
     <ProjectReference Include="..\Tesseract\Tesseract.csproj">
